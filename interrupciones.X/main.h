@@ -1,0 +1,2 @@
+int mostrar;
+int pulsos;
